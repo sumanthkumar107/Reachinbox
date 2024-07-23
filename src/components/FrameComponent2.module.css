@@ -1,0 +1,1140 @@
+.path7372Icon {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+  object-fit: contain;
+}
+.path7372Wrapper {
+  width: 246px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-6xs-9) 0 var(--padding-6xs-9) var(--padding-217xl);
+  box-sizing: border-box;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.functionBar,
+.functionBarInner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.functionBarInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0;
+}
+.functionBar {
+  width: 268px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-300);
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+  box-sizing: border-box;
+}
+.name {
+  position: relative;
+  display: inline-block;
+  min-width: 34px;
+}
+.contactValues {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.orlando {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--regular1-size);
+  color: var(--color-silver);
+  display: inline-block;
+  min-width: 53px;
+}
+.contactFields {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contactNo {
+  position: relative;
+  display: inline-block;
+  min-width: 65px;
+}
+.contactNoWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.div {
+  position: relative;
+  font-size: var(--regular1-size);
+  color: var(--color-silver);
+  display: inline-block;
+  min-width: 119px;
+  white-space: nowrap;
+}
+.contactFields1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.emailId {
+  position: relative;
+  display: inline-block;
+  min-width: 46px;
+}
+.emailIdWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.orlandogmailcom {
+  position: relative;
+  font-size: var(--regular1-size);
+  color: var(--color-silver);
+  white-space: nowrap;
+}
+.contactFields2 {
+  width: 233px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.linkedin,
+.linkedincomintimvadde {
+  position: relative;
+  display: inline-block;
+}
+.linkedin {
+  min-width: 48px;
+}
+.linkedincomintimvadde {
+  height: 34px;
+  width: 142px;
+  font-size: var(--regular1-size);
+  color: var(--color-silver);
+  text-align: right;
+  flex-shrink: 0;
+}
+.socialLinks {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.companyName {
+  position: relative;
+  display: inline-block;
+  min-width: 91px;
+}
+.companyNameWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.reachinbox {
+  position: relative;
+  font-size: var(--regular1-size);
+  color: var(--color-silver);
+  display: inline-block;
+  min-width: 77px;
+}
+.contactFields3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contactInfo,
+.contactInfoWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactInfo {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.contactInfoWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl) var(--padding-lgi) var(--padding-sm);
+  font-size: var(--regular-size);
+}
+.activities {
+  width: 235px;
+  border: 0;
+  outline: 0;
+  font-weight: 600;
+  font-family: var(--regular);
+  font-size: var(--regular1-size);
+  background-color: transparent;
+  height: 20px;
+  position: relative;
+  line-height: 20px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0;
+}
+.path7372Icon1 {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+  object-fit: contain;
+}
+.innerContent {
+  width: 246px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.barContent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0;
+}
+.barContent,
+.functionBar1,
+.functionBarWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.functionBar1 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-300);
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+}
+.functionBarWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs) var(--padding-8xs) 0;
+}
+.title {
+  position: relative;
+  display: inline-block;
+  min-width: 120px;
+}
+.span,
+.title {
+  font-weight: 600;
+}
+.title1 {
+  position: relative;
+  display: inline-block;
+  min-width: 41px;
+}
+.titleIcon {
+  height: 15px;
+  width: 1px;
+  position: relative;
+}
+.span1 {
+  font-weight: 600;
+}
+.title2 {
+  position: relative;
+  display: inline-block;
+  min-width: 109px;
+}
+.emailTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-3xs-5);
+}
+.contentIcon {
+  height: 151px;
+  width: 1px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 15.2px;
+}
+.emailIcon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.emailValues {
+  height: 32px;
+  width: 32px;
+  border-radius: var(--br-28xl);
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-8xs);
+  flex-shrink: 0;
+}
+.title3 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 81px;
+}
+.sendIcon {
+  height: 22.6px;
+  width: 22.6px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.rdFeb,
+.sent {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 22px;
+}
+.rdFeb {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+  min-width: 40px;
+}
+.dateFields,
+.statusFields {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.statusFields {
+  padding: 0;
+  gap: var(--gap-11xs);
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+  font-family: var(--regular);
+}
+.subjectValues {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-9xs);
+}
+.emailFields,
+.subjectFields {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.subjectFields {
+  width: 255px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.emailFields {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.emailIcon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.emailWrapper {
+  height: 32px;
+  width: 32px;
+  border-radius: var(--br-28xl);
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-8xs);
+  flex-shrink: 0;
+}
+.title4 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 81px;
+}
+.draftsIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.opened,
+.thFeb {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  color: inherit;
+  display: inline-block;
+  min-width: 38px;
+}
+.thFeb {
+  font-weight: 600;
+  min-width: 40px;
+}
+.draftsParent,
+.openedParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.draftsParent {
+  align-self: stretch;
+  padding: 0;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+  font-family: var(--regular);
+}
+.titleGroup {
+  width: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+}
+.emailFields1,
+.emailFieldsInner {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.emailFieldsInner {
+  width: 255px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.emailFields1 {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.emailIcon2 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.emailContainer {
+  height: 32px;
+  width: 32px;
+  border-radius: var(--br-28xl);
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-8xs);
+  flex-shrink: 0;
+}
+.title5 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 81px;
+}
+.draftsIcon1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.opened1,
+.thFeb1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 18px;
+  color: inherit;
+  display: inline-block;
+  min-width: 38px;
+}
+.thFeb1 {
+  font-weight: 600;
+  min-width: 40px;
+}
+.draftsGroup,
+.openedGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.draftsGroup {
+  align-self: stretch;
+  padding: 0;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver);
+  font-family: var(--regular);
+}
+.titleContainer {
+  width: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+}
+.emailFields2,
+.emailFieldsChild {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.emailFieldsChild {
+  width: 255px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.emailFields2 {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.emailContent,
+.emailDetails {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.emailDetails {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-13xl);
+  z-index: 1;
+}
+.emailContent {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  font-size: var(--font-size-smi);
+}
+.emailTitleParent {
+  width: 280.9px;
+  flex-direction: column;
+  gap: var(--gap-base);
+  font-size: var(--regular-size);
+}
+.emailTitleParent,
+.frameWrapper,
+.titleParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.titleParent {
+  width: 248px;
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.frameWrapper {
+  flex-direction: row;
+  padding: 0 0 var(--padding-25xl-4) var(--padding-6xl);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-open-sans);
+}
+.productsInterested {
+  align-self: stretch;
+  width: 235px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.path7372Icon2 {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+  object-fit: contain;
+}
+.interestContent {
+  align-self: stretch;
+  width: 246px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.barContainer,
+.functionBar2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.barContainer {
+  flex: 1;
+  flex-direction: row;
+  padding: 0;
+}
+.functionBar2 {
+  height: 36px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray-400);
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+  box-sizing: border-box;
+}
+.emiDateRelated {
+  align-self: stretch;
+  width: 114px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.statusIconsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 100%;
+  height: 100%;
+}
+.resolved {
+  position: absolute;
+  top: 2px;
+  left: 7.9px;
+  display: inline-block;
+  width: 45px;
+  z-index: 1;
+}
+.statusIcons {
+  height: 16px;
+  width: 58px;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.issueLabels {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.emiLastDate {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+}
+.issueMessages {
+  width: 177px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray-1000);
+}
+.issueFields,
+.issueValues {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.issueValues {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.issueFields {
+  height: 32.2px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.issueId {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.path11208Icon {
+  width: 0;
+  height: 10.5px;
+  position: relative;
+}
+.issueId43542342Parent,
+.path11208Wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.path11208Wrapper {
+  width: 0;
+  flex-direction: column;
+  padding: var(--padding-11xs-5) 0 0;
+  box-sizing: border-box;
+  margin-left: -9.5px;
+}
+.issueId43542342Parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.dueBy {
+  align-self: stretch;
+  width: 104px;
+  position: relative;
+  color: var(--color-gray-800);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frameParent,
+.issueFields1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameParent {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.issueFields1 {
+  height: 15.8px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs) var(--padding-9xs-8) var(--padding-4xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.issueDetailsChild,
+.paymentLink {
+  align-self: stretch;
+  position: relative;
+  flex-shrink: 0;
+}
+.issueDetailsChild {
+  height: 0;
+  border-radius: var(--br-9xs);
+  max-width: 100%;
+  overflow: hidden;
+}
+.paymentLink {
+  width: 114px;
+  display: inline-block;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  width: 100%;
+  height: 100%;
+}
+.pending {
+  position: absolute;
+  top: 2px;
+  left: 7.9px;
+  display: inline-block;
+  width: 45px;
+  z-index: 1;
+}
+.vectorParent {
+  height: 16px;
+  width: 58px;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.paymentLinkParent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.paymentLinkNot {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+}
+.frameGroup,
+.paymentLinkNotWorkingWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paymentLinkNotWorkingWrapper {
+  width: 177px;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray-1000);
+}
+.frameGroup {
+  flex-direction: column;
+  gap: var(--gap-9xs);
+}
+.frameGroup,
+.issueFields2,
+.issueId1 {
+  align-self: stretch;
+  flex: 1;
+}
+.issueFields2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-5xs);
+}
+.issueId1 {
+  position: relative;
+  z-index: 1;
+}
+.path11208Icon1 {
+  width: 0;
+  height: 10.5px;
+  position: relative;
+}
+.issueId3435446Parent,
+.path11208Container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.path11208Container {
+  width: 0;
+  flex-direction: column;
+  padding: var(--padding-11xs-5) 0 0;
+  box-sizing: border-box;
+  margin-left: -9.5px;
+}
+.issueId3435446Parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.dueBy1 {
+  align-self: stretch;
+  width: 104px;
+  position: relative;
+  color: var(--color-gray-800);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frameContainer {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.frameContainer,
+.issueDetails,
+.issueFields3 {
+  align-self: stretch;
+  display: flex;
+}
+.issueFields3 {
+  height: 12px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs) 0 var(--padding-4xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.issueDetails {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.issueContentChild {
+  align-self: stretch;
+  height: 0;
+  position: relative;
+  border-radius: var(--br-9xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.issueContent {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xs-8);
+}
+.functionBarGroup,
+.issueContent,
+.issueContentWrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.issueContentWrapper {
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs);
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+}
+.functionBarGroup {
+  height: 196px;
+  flex-direction: column;
+  padding: 0 var(--padding-8xs) var(--padding-base) 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  flex-shrink: 0;
+}
+.productPurchased {
+  align-self: stretch;
+  width: 235px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.path7372Icon3 {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+}
+.footerLabels {
+  align-self: stretch;
+  width: 246px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.footerContent,
+.functionBar3 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footerContent {
+  flex-direction: row;
+  padding: 0;
+}
+.functionBar3 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+}
+.customerNotes {
+  align-self: stretch;
+  width: 235px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.path7372Icon4 {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+}
+.customerNotesParent {
+  align-self: stretch;
+  width: 246px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.functionBar4,
+.functionBarChild {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.functionBarChild {
+  flex-direction: row;
+  padding: 0;
+}
+.functionBar4 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+}
+.recentConversations {
+  align-self: stretch;
+  width: 235px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.path7372Icon5 {
+  height: 6.2px;
+  width: 10px;
+  position: relative;
+}
+.frameDiv,
+.recentConversationsParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+}
+.recentConversationsParent {
+  width: 246px;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-12xs);
+  flex-shrink: 0;
+}
+.frameDiv {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.functionBar5,
+.functionBarContainer,
+.functionBarParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.functionBar5 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xs);
+}
+.functionBarContainer,
+.functionBarParent {
+  box-sizing: border-box;
+}
+.functionBarContainer {
+  align-self: stretch;
+  height: 140px;
+  padding: 0 var(--padding-8xs) 0 0;
+  gap: var(--gap-base);
+  flex-shrink: 0;
+}
+.functionBarParent {
+  position: absolute;
+  top: 68px;
+  right: 0;
+  background-color: var(--color-black);
+  border-left: 1px solid var(--color-darkslategray-600);
+  width: 278px;
+  height: 1010px;
+  padding: var(--padding-base) 0 var(--padding-116xl) var(--padding-9xs);
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--regular1-size);
+  color: var(--color-white);
+  font-family: var(--regular);
+}

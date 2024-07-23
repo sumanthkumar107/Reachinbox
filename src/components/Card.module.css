@@ -1,0 +1,135 @@
+.cardChild {
+  align-self: stretch;
+  height: 238px;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.08);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--table-bg-border);
+  box-sizing: border-box;
+  display: none;
+}
+.newProductLaunch {
+  position: relative;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-whitesmoke-100);
+}
+.fromJeanneicloudcom {
+  align-self: stretch;
+  position: relative;
+}
+.toLennonjmailcom {
+  width: 202.8px;
+  position: relative;
+  display: inline-block;
+}
+.recipientInfo {
+  width: 442.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  max-width: 100%;
+}
+.june2022 {
+  align-self: stretch;
+  position: relative;
+}
+.june2022916amWrapper {
+  width: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-gray-100);
+}
+.cardInfo,
+.separator {
+  align-self: stretch;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.cardInfo {
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  background-color: var(--color-gray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-base);
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.separator {
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gray-600);
+}
+.blankLine,
+.hiFirstName,
+.iWouldLike {
+  margin: 0;
+}
+.hiFirstNameIContainer {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  min-height: 114px;
+  max-width: 100%;
+}
+.hiFirstNameIWouldLikeWrapper {
+  width: 500px;
+  background-color: var(--color-gray-600);
+  flex-direction: row;
+  z-index: 1;
+}
+.card,
+.hiFirstNameIWouldLikeWrapper,
+.messagePreview,
+.messageRow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.messageRow {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-mini);
+}
+.card,
+.messagePreview {
+  width: 575px;
+  flex-direction: row;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-open-sans);
+}
+.card {
+  position: absolute;
+  top: 179px;
+  left: 384px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.08);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--table-bg-border);
+  width: 755px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-11xs);
+  text-align: left;
+  font-size: var(--regular1-size);
+  color: var(--color-darkgray);
+  font-family: var(--font-abel);
+}
+@media screen and (max-width: 725px) {
+  .cardInfo {
+    flex-wrap: wrap;
+  }
+}
